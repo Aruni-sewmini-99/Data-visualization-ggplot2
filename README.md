@@ -1,2 +1,2 @@
-# Statistical-Graphs-with-ggplot2
-https://colab.research.google.com/drive/1CDzYwtWPL-U_J5ypXNTRp11gY3hSKJQr#scrollTo=2swKGN0dj4CK
+# Data-Visualization-ggplot2
+A blog post and code examples for statistical visualizations using ggplot2 in R
